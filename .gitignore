@@ -1,0 +1,15 @@
+# Entorno virtual
+venv/
+
+# Archivos temporales de análisis
+temp_project/
+*.zip
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+

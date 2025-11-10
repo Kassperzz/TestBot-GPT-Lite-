@@ -1,0 +1,7 @@
+# Requerimientos principales
+streamlit>=1.33.0
+requests>=2.31.0
+
+# Dependencias opcionales comunes de streamlit sin conflicto
+protobuf<4
+watchdog
