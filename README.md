@@ -195,5 +195,5 @@ Puedes:
 ## 📜 Licencia
 
 Distribuido bajo licencia **MIT**.  
-Hecho por **Kasperzzz**  
+Hecho por **Kassperzz**  
 > v1.2 – TestBot-GPT (Lite)
