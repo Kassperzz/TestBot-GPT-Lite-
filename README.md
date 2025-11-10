@@ -170,21 +170,6 @@ TestBot-GPT/
 
 ---
 
-## 🧰 Archivos ignorados (.gitignore)
-
-Estos archivos se generan automáticamente y **no deben subirse al repositorio**:
-
-```
-venv/
-temp_project/
-__pycache__/
-*.pyc
-*.zip
-.DS_Store
-Thumbs.db
-```
-
----
 
 ## 💬 Retroalimentación
 
