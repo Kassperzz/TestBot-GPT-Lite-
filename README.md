@@ -81,7 +81,7 @@ TestBot-GPT usa **Ollama** para ejecutar modelos de lenguaje IA de forma local.
 
 1. **Clonar el repositorio**
    ```bash
-   git clone https://github.com/<tu-usuario>/TestBot-GPT.git
+   git clone https://github.com/Kassperzz/TestBot-GPT-Lite-.git
    cd TestBot-GPT
    ```
 
